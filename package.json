@@ -1,12 +1,13 @@
 {
   "name": "kalantech_website",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is the website of kalantech",
   "main": "index.html",
   "scripts": {
     "start": "node index.html"
+    "build": "echo 'No build needed'"
   },
   "keywords": [],
-  "author": "",
+  "author": "kernel",
   "license": "ISC"
 }
