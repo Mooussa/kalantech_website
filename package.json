@@ -1,10 +1,11 @@
 {
   "name": "kalantech_website",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is the website of kalantech",
-  "scripts": {},
+  "scripts": {
+    "build": "echo 'No build step necessary'"
+  },
   "keywords": [],
-  "author": "kernel",
   "author": "kernel",
   "license": "ISC"
 }
